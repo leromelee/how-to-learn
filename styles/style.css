@@ -222,7 +222,7 @@ a {
   width: 200px;
   padding-top: 80px;
   margin: 0;
-  z-index: 1
+  z-index: 1;
 }
 
 .section-title_theme_dark{
@@ -312,7 +312,6 @@ a {
   margin-bottom: 16px;
   list-style-type: none;
   margin-top: 0;
-  margin-bottom: 20px;
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
@@ -321,5 +320,3 @@ a {
 .footer__column-links a:visited {
   color: white;
 }
-
-
