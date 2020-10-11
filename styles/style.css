@@ -42,7 +42,7 @@
   text-decoration: none;
 }
 
-.logo__place_header {
+.logo_place_header {
   background-repeat: no-repeat;
   background-size: cover;
   position: absolute;
@@ -121,6 +121,7 @@
 .digits {
   margin-top: 100px;
   position: relative;
+  margin-bottom: 100px;
 
 }
 
@@ -274,7 +275,7 @@
 }
 
 .footer__column {
-  margin: 0 auto;
+  margin: 0;
 }
 
 .logo_place_footer {
@@ -290,11 +291,13 @@
 }
 
 .footer__column_content_info {
-  margin: 0 auto;
+  margin-top: 0;
 }
 
 .footer__column_content_social {
-  margin: 0 auto 16px;
+  margin-top: 0;
+  margin-bottom: 16px;
+
 }
 
 .footer__author {
@@ -329,11 +332,11 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
-  color: white;
 }
 
 .footer__column-link {
   text-decoration: none;
+  color: white;
 }
 
 .footer__column-links .footer__column-link:visited {
