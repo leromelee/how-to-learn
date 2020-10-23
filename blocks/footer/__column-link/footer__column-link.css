@@ -1,8 +1,14 @@
 .footer__column-link {
   text-decoration: none;
   color: white;
+  opacity: 1;
 }
 
-.footer__column-links .footer__column-link:visited {
+.footer__column-link:visited {
   color: white;
+}
+
+.footer__column-link:hover {
+  transition: linear 0.3s;
+  opacity: 0.5;
 }
