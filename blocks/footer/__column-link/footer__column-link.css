@@ -1,0 +1,8 @@
+.footer__column-link {
+  text-decoration: none;
+  color: white;
+}
+
+.footer__column-links .footer__column-link:visited {
+  color: white;
+}

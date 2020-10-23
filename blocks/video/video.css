@@ -1,0 +1,9 @@
+@import url(./__iframe/video__iframe.css);
+@import url(./__iframes/video__iframes.css);
+
+.video {
+  margin-top: 100px;
+  padding-bottom: 60px;
+  overflow: hidden;
+  background: linear-gradient(to bottom, white 80%, #f2f2f2 20%);
+}
